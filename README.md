@@ -53,3 +53,8 @@ B005 - Rich Dad Poor Dad [Available]
 Select Option: 2
 Enter Book ID: B004
 Success: You have borrowed Harry potter
+
+### Output Images
+<img width="1701" height="585" alt="image" src="https://github.com/user-attachments/assets/4d58849c-61ac-4a38-a233-fe019cce07f1" />
+<img width="1701" height="585" alt="Screenshot 2026-03-29 122256" src="https://github.com/user-attachments/assets/b7176448-cea5-468d-bbbd-7e2c24c2991c" />
+
